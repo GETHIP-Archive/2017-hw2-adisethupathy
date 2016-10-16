@@ -1,13 +1,12 @@
 {
   "firstname": "Adi",
   "lastname": "Sethupathy",
-  "age": "17",
-  "Height": "71",
+  "age": 17,
   "picture": "https://pbs.twimg.com/profile_images/727367144573308928/VsWJaFgc_400x400.jpg",
   "nicknames": [
     {"nick": "Ads"},
     {"nick": "Seth"}
-    
+
   ]
 
 }
