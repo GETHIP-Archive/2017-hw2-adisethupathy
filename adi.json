@@ -1,4 +1,4 @@
-let person: {
+{
   "firstname": "Adi",
   "lastname": "Sethupathy",
   "age": "17",
